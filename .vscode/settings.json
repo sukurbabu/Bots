@@ -1,0 +1,12 @@
+{
+    "python.terminal.activateEnvironment": false,
+    "python.defaultInterpreterPath": "c:\\ProgramData\\robocorp\\ht\\dac298a_b1f3c24_59f207d3\\python.exe",
+    "python.linting.ignorePatterns": [
+        "**/site-packages/**/*.py",
+        ".vscode/*.py",
+        ".vscode/*.robot"
+    ],
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "git.ignoreLimitWarning": true
+}
